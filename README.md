@@ -1,13 +1,18 @@
-### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvuquang&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvuquang&repo=convoychat" />
-</a>
 
-[![Aether's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvuquang)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there,
+🌱 I’m currently learning FrontEnd Development
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvuquang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Aether's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvuquang)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 <!--
 **hvuquang/hvuquang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
