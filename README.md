@@ -8,10 +8,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvuquang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
 [![Aether's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvuquang)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 <!--
 **hvuquang/hvuquang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
