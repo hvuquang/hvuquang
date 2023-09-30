@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <a href = "https://www.linkedin.com/in/v%C5%A9-quang-huy-499580252/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/v%C5%A9-quang-huy-499580252/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitter.com/HuyVQuang"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
