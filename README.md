@@ -1,6 +1,6 @@
 
 ### Hi there,
-🌱 I’m currently learning FrontEnd Development
+🌱 I’m currently learning Fullstack Development
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100"/>
 </div>
