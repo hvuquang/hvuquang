@@ -1,6 +1,10 @@
 
 ### Hi there,
-🌱 I’m currently learning Fullstack Development
+- 🌱 I’m currently learning Fullstack Automation Testing
+- 🔭 I’m currently working on the Playwright Automation Project
+- 😄 Pronouns: He / Aether
+- 📫 How to reach me:
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100"/>
 </div>
